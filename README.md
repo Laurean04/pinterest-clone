@@ -11,4 +11,4 @@ Podrás encontrarlo en [Clon Pinterest](https://pinterest-clone-ashy.vercel.app/
 * CSS
 
 ### Captura del proyecto
-![Captura del proyecto](/imagenes/CapturaPinterest.PNG)
+![Captura del proyecto](imagenes/CapturaPinterest.PNG)
