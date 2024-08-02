@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
 }
-
 body{
     background-color: white;
     font-family: sans-serif;
@@ -112,7 +111,6 @@ header nav{
 .card-image:hover > :first-child{
     filter:brightness(60%);
 }
-
 .card-image:hover > *{
     visibility: visible;
     display: inline;
@@ -127,14 +125,12 @@ header nav{
     border: none;
     visibility: hidden;
 }
-
 .card-image button a{
     text-decoration: none;
     color: white;
     font-size: 16px;
     font-weight: bold;
 }
-
 .oculto1{
     position: absolute;
     left: 60%;
@@ -148,7 +144,6 @@ header nav{
     visibility: hidden;
     display: none;
 }
-
 .oculto2{
     position: absolute;
     left: 78%;

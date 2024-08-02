@@ -1,2 +1,14 @@
-# pinterest-clone
-Proyecto simulando la pantalla principal de Pinterest
+# Clon de Pinterest
+## Clon de la pantalla principal de Pinterest
+
+Proyecto creado durante el bootcamp de Tecnolochicas PRO, muestra la pantalla principal de Pinterest. 
+
+Podrás encontrarlo en [Clon Pinterest](https://pinterest-clone-ashy.vercel.app/).
+
+### Tecnologías 
+
+* HTML
+* CSS
+
+### Captura del proyecto
+![Captura del proyecto](/imagenes/CapturaPinterest.PNG)
